@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is the new content for pipeline,new contenttttttttttttttttt</h2>
+<h2>This is my edited content</h2>
 </body>
 </html>
